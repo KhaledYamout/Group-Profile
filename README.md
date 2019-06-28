@@ -2,7 +2,7 @@
 
 This is a Group project where all members will share and take part into making a team website.
 
-## Personal Info
+## Personal Info (Add Your info)
 
 Khaled Yamout
 
@@ -10,7 +10,7 @@ Born and raised in Riyadh, Saudi Arabia a city that was raised from the barren s
 
 
 
-## Team Profile
+## Team Profile (Add your Test outcomes and Ideal Job)
 
 Test outcomes of esch person **(Compare and Contnrast Ideal Jobs)**
 

@@ -12,7 +12,7 @@ Born and raised in Riyadh, Saudi Arabia a city that was raised from the barren s
 
 ## Team Profile
 
-Test outcomes of esch person ### Compare and Contnrast Ideal Jobs
+Test outcomes of esch person **Bold**(Compare and Contnrast Ideal Jobs)
 
 Khaled Yamout
 

@@ -16,7 +16,8 @@ Test outcomes of esch person **(Compare and Contnrast Ideal Jobs)**
 
 Khaled Yamout
 
-[Test Outcome](https://github.com/KhaledYamout/Group-Profile/blob/master/Test%20outcomes.docx) 
+- [Test Outcome](https://github.com/KhaledYamout/Group-Profile/blob/master/Test%20outcomes.docx)
+- [Ideal Job]
 
 ```markdown
 Syntax highlighted code block

@@ -29,6 +29,40 @@ Our ideal jobs have many similarities and differences nonetheless, it is crucial
 ## I.T. and What it Involves
 ### Interviews and Video sources
 
+Michael Iskandarani
+Web Developer
+1.	What kind of work is done by I.T. professionals?
+The work that I.T. professionals do is so vast that they can be anything from developing, programing, and designing so many different applications, programs, web sites, software, and even hardware.
+2.	What kind of people do I.T. professionals work with?
+We work with all manner of people, especially those who need advice and or work done for their companies. They are usually clients who want to develop an app or a website for their business furthermore, we also work within our own workspace to improve and make our own internal systems more efficient.
+3.	Where does an I.T. professional spend most of their time?
+In front of a computer of course. Whether it is in an office, at home, at home or even at a café. We are always in front of a screen and if a P.C. or laptop is not enough, we also have our phones as well.
+4.	What aspect of the position is most challenging?
+The most challenging thing in my field is probably being able to code without having any setbacks. I try my best to present my work at the end of the day without making any mistakes, that’s why I always double and triple check my work before showing it to anyone. Though no matter how hard you check sometimes there will always be something that malfunctions and that’s why you always have to be prepared to fix the error. 
+
+Aya Hawa
+Software Developer
+1.	What kind of work is done by I.T. professionals?
+Those who work In I.T. are responsible for organizing, programing, and maintaining a computer. We mostly work with data, networking, applications, and making programs that help make a computer easier to use.
+2.	What kind of people do I.T. professionals work with?
+We work and interact with many people, anyone who is interested in technology and developing programs and or applications are all potential clients. We work with investors, cooperate companies, and even small businesses.
+3.	Where does an I.T. professional spend most of their time?
+As a person working for a company, I spend most of my time in the office in front of a computer. I bet that many other people spend a lot of time in front of a computer at work but for us it’s more than just using a computer to get something done. We use our computers to create and make things that people need and want instead of just using it to send emails and collect data. 
+4.	What aspect of the position is most challenging?
+As a Software Developer the most challenging thing is getting through all the coding correctly. That’s why when I am working I try to organize all my codes so that I don’t get confused. It takes time but well worth the time to fix and keep things from getting confusing.
+
+Joyce Kanaya
+Software Engineer      
+1.	What kind of work is done by I.T. professionals?
+Their jobs is to either handle or care for a computer or to be able to use the computer to create and make things like apps and more.
+2.	What kind of people do I.T. professionals work with?
+We mostly work with clients that come by the company and request projects that the company accepts from them. It is either app development or network based web development that mostly sought after.
+3.  Where does an I.T. professional spend most of their time?
+Well that is obvious, in front a computer unless it’s a weekend.
+4. What aspects of the position is most challenging?
+The most challenging thing is being able to present our work to the client on time with a great presentation. We deal with a lot of people and we want them to feel great working with us and mostly satisfied with the work we do for them. Though not everyone could be pleased, there are other clients who are very tough to deal with and are very demanding. Not knowing how much work we put in or not appreciating what we do, some clients just want to spend the least they can and get the most work out of us. Thankfully our company knows how to handle all sorts of people, the good thing is that some of us work with a computer more than dealing with people. That’s why some of us study business and others study computers.  
+
+
 
 ## Technology That Impact The World
 

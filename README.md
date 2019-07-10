@@ -85,6 +85,7 @@ An I.T. manger has so many things to do, depending on the size and the industry/
 •	Account manager (focused on Tech.)
 
 In general an I.T. manager is responsible for everything that has to do with technology. Making sure that the servers are healthy and network is good. Making sure that security is strong and that patching is happening. All of the infrastructure is being monitored to be able to fix any problems that were to pass. I.T. professionals also work with vendor providers to get the latest and best hardware and software for the company/organization. Being able to keep communications going and making sure Internet Service Providers (ISP’s) are giving the best possible internet and phone coms for the business. In very large companies the I.T. department that is in-house is divided into sections where each section has a job to fulfill within the company, examples are; the developing section who are responsible for making programs and apps for the company or maintenance who take care of all the tech especially making sure all computers are maintained and functional. Businesses also deal with remote I.T. services if they do not have an in-house department. Team work is essential in large companies but, in small businesses a person or two are accountable for all the tasks mentioned above since it is smaller and manageable with two or even one person.
+
 https://www.youtube.com/watch?v=JhRlTZg14iQ
     
 

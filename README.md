@@ -4,12 +4,17 @@ This is a Group project where all members will share and take part into making a
 
 ## Personal Info (Add Your info)
 
-Khaled Yamout
+### Khaled Yamout
 
 Born and raised in Riyadh, Saudi Arabia a city that was raised from the barren sands of the desert. Originally from Lebanon, enrolled at the Oxford multinational school where the first steps towards higher education began. Passionate about acting and film since childhood, after graduating from high school traveled to Lebanon to peruse an education in media studies at the Lebanese American University. In university learning so many skills and understanding progress in technology, observant that media in Lebanon was still in its most basic form. Graduated from (LAU) in 2014 to be able to continue studies abroad however, things did not go as planned. Obliged to stay, worked at an advertising company back in Riyadh where gaining work experience and profit took most of the focus from the real objective. Finally realizing the importance of going after a goal after 2 years. Applied to many production companies. There was a project in Jeddah where there was a possibility of a great position and recruitment. After the month of working on the project, the company decided to accept enlistment. A week after acceptance, managed to contact the company again asking for further detail. The company unprofessionally declined to answer and gave an intolerable excuse. A small time local production company then accepted enrollment. In the 3 months of learning all manner of aspects in media and production. The refusal of the pay rate they were offering ended in disappointment and withdrawal. After a grinding year trying to find a good job, grasped that it was time to try something new. Traveled back to Lebanon where freelancing in media gave the rise to widen and expand the skills needed. After struggling from job to job, the love for computers and technology sparked an intrigue. Now trying to study once again in the hopes of finding a stable workflow and understanding what I.T. is can reveal new opportunities.
 
 https://github.com/KhaledYamout/Profile
 
+### Patrick Mugasa
+
+My name is Patrick Mugasa, my student number is s3792796 and I’m a member of group 20 (Our name is Penta). I finished my high in 2012 and was admitted to study electrical engineering and computer science at the university of New South Wales (UNSW). I studied there for 2 years however, I did not finish my studies due to work commitment. During my studies I was introduced to a lot of IT fields from digital circuit design to programming in assemblies and other languages. I have some experience programming in different paradigms including functional and object oriented. I love programming as it helps me create some useful apps and among the languages I have learnt over the years include C, C#, Haskell, Java and Python. Recently, I decided to join RMIT to continue my studies in IT and I’m looking forward to finishing my studies. Studying at RMIT online helps me keep my job but study at the same time and this was the issue I had with my previous studies. My other interests in IT include networking and artificial intelligence. After finishing my degree in IT, I’m planning to be CCIE certified in both security and routing and switching. I’ve been told that CCIE is one of, if not the hardest exam in networking and I’m looking up to that challenge.  Apart from my academic life, I’m a bit introverted and love guitars. I’m currently learning how to play the guitar and my favorite artist is Erik Mongrain. When I’m not studying or working, I spend most of my time playing FIFA on my Xbox.
+
+https://mugasa.github.io/IntroToIT1937-Assignment1/
 
 ## Team Profile (Add your Test outcomes and Ideal Job)
 

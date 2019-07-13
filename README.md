@@ -202,6 +202,37 @@ Unfortunately, with the world we are living in it won’t be long before your ev
 
 In relation to the effect that autonomous vehicles will have on me personally I believe that it is the way of the future and this is just the start to many autonomous things. I don’t 100% agree with autonomous vehicles but facts such as reducing fatalities worldwide, reducing CO2 emissions and assisting with reducing global warming I agree with the production of autonomous vehicles. However, I don’t agree with how this will affect people’s jobs and livelihoods.
 
+
+### Saad Alvi
+
+The development of technology has sky rocketed over the years. These changes in society are making life more effortless. There is a lot of topics we can talk about but I find block chain and crypto currency the most intriguing.  I feel like it will change the whole economy of the world. It is a very complicated method but I have basically explained how the general way it is run.
+
+Block chain programming was introduced by the founders of Bitcoin. It consists of many different computers working on a network through the internet to solve complex equations. When these complex equations are solved, the network will pay a fee to the computer which was able to solve the equation first. This process is called mining. 
+
+Complex equations increase in complexity with every transaction which occurs on the network. As a group of users start to accept the fee as a form of payment, blockchain technology has now created a new acceptable medium of exchange, Cryptocurrency. The code which has now been mined could be used as a form  of exchange within an industry which accepts it as a payment.
+
+The advantage of Cryptocurrency and blockchain technology is the redundancy to ever needing to reconcile transactions. Rather than having to reconcile manually between a general ledger and the bank with the possibility of human error, the computers on a network simultaneously add a block to the Cryptocurrencies general ledger which every computer must agree all previous data is true to be finalised on the ledger. The computers which work to support the network are referred to as nodes.
+
+The importance of this technology is once a transaction is added to the ledger, the transaction cannot be reversed and this prevents any data manipulation on previous transactions. This is because once every node has agreed on a block added to the chain, the historical data is now exists on every node within the network. The technology consists of an encrypted blocks being stored across every node on the network which is consistently eliminating any imperfections in the data.  The new coding opens a new method of storing data within a ledger which its possibilities are yet to be discovered. Implications of Blockchain can be implemented in any software or industry which requires information to be approved before being processed.
+
+The uses of blockchain technology could be seen in certain industries which only accept payment in the form of its own cryptocurrency, which gives incentive to nodes on a network to continue to function as the fee being paid out will remain valuable. Initially, to obtain cryptocurrency was only through mining. Since the expansion of the networks, the operators of these nodes will sell their excess fees obtained through mining on exchanges. These exchanges accept Fiat Currency, which are government issued currency in exchange for Cryptocurrency. Exchanges such as CoinBase, CoinSpot, and Coin Jar allows you to trade in Fiat Currency for Cryptocurrency. 
+
+An appealing aspect to a cryptocurrency is the inability for a certain industry to manipulate their value of their currency, a decentralised currency. When a currency is decentralised and consistently used within a network, every transaction which occurs on the ledger increases the complexity of the Equations, thus making it harder for the nodes to solve these equations and gradually decreasing the fee awarded to the node. The value of the Cryptocurrency then increases. 
+
+Cryptocurrency could be seen in everyday technology, such as our daily transactions. Companies such as visa and mastercard are processing thousands of transactions per second and could use this type of technology to prevent the task of reconciliation. Potential Jobs which are affected are jobs within accounts as there will be less tasks involved around balancing general ledgers. Potential implications of this technology is the independency of needing to open an account with a bank, thus providing full control of the ones asset to the individual. 
+
+Currently Cryptocurrency is highly volatile due to the limited amount of users actively using it as a form of exchange, but when the users are diverse, sudden changes within the market occurs it will not be as effective as it has been in the past. Currently the wealthier individuals are able to manipulate the market as they will invest enormous amounts of fiat money within a certain cryptocurrency causing many to rush in, then potentially exchanging cryptocurrency back out into fiat money and gaining capital. This leaves damaging effects to unsuspected users who have invested a lot of capital. 
+
+As an individual, blockchain would potentially allow me to transfer funds to my family in another country without bank fees and exchange rates instantly. This allows more value to be received to my family and decreasing the processing time in urgent situations. When a transaction is sent, a fee is paid to the network to process this transaction, which further creates an incentive for the operators to continue to maintain their nodes. To receive these funds the requirement is access to the internet. Accounts are opened through wallets which have been encrypted by a string a words creating an encryption on the wallet and an address to send and receive. Unlike Bank accounts, we are not required to enter a branch and provide document proving identity to open a wallet. This is convenient for those who do not have the time or access to branch to open an account or are worried about the safety of their personal data being breached. 
+
+Currently, if cryptocurrency is used as everyday transaction it will not have a great affect as all my transactions are through tap and pay using visa mastercard. The advantages of Cryptocurrency is the freedom to manage to send funds to instantly to any location with internet access but, if I was to move my assets entirely to a wallet through a decentralised currency I am liable for my own negligence. If another individual was to obtain access to my wallet I will not be able to process a claim through a bank to receive my funds back. 
+
+
+Project idea
+I think the best way to implement this program into society would be to go through the government of the country. If we can make a regulation that every Pharmacist has to be using this program it will be easier then expecting everyone to be using the same program.  Also we wouldn’t have to spend time marketing and wasting resources on unnecessary projects. Getting a government grant would be the most ideal way of getting this program to help the country. Also since it will be a government application it would make it easier for doctors and hospitals to attain this information helping the whole medical world come closer. 
+
+
+
 ## Group Project Idea
 
 ### MISUSE OF PRESCRIPTION DRUGS
@@ -237,40 +268,6 @@ Alex Davies and Aarian Marshall. 2019. Are we there Yet? A reality check on self
 Ian Dowd. 2019. The future of Autonomous Vehicles. https://www.openaccessgovernment.org/future-of-autonomous-vehicles/57772/ 
 
 Jessica Miley. 2018. Are Self-Driving Cars the Future of Transportation?. https://interestingengineering.com/are-self-driving-cars-the-future-of-transportation-infographic
-
-
-
-### Saad Alvi
-
-The development of technology has sky rocketed over the years. These changes in society are making life more effortless. There is a lot of topics we can talk about but I find block chain and crypto currency the most intriguing.  I feel like it will change the whole economy of the world. It is a very complicated method but I have basically explained how the general way it is run.
-
-Block chain programming was introduced by the founders of Bitcoin. It consists of many different computers working on a network through the internet to solve complex equations. When these complex equations are solved, the network will pay a fee to the computer which was able to solve the equation first. This process is called mining. 
-
-Complex equations increase in complexity with every transaction which occurs on the network. As a group of users start to accept the fee as a form of payment, blockchain technology has now created a new acceptable medium of exchange, Cryptocurrency. The code which has now been mined could be used as a form  of exchange within an industry which accepts it as a payment.
-
-The advantage of Cryptocurrency and blockchain technology is the redundancy to ever needing to reconcile transactions. Rather than having to reconcile manually between a general ledger and the bank with the possibility of human error, the computers on a network simultaneously add a block to the Cryptocurrencies general ledger which every computer must agree all previous data is true to be finalised on the ledger. The computers which work to support the network are referred to as nodes.
-
-The importance of this technology is once a transaction is added to the ledger, the transaction cannot be reversed and this prevents any data manipulation on previous transactions. This is because once every node has agreed on a block added to the chain, the historical data is now exists on every node within the network. The technology consists of an encrypted blocks being stored across every node on the network which is consistently eliminating any imperfections in the data.  The new coding opens a new method of storing data within a ledger which its possibilities are yet to be discovered. Implications of Blockchain can be implemented in any software or industry which requires information to be approved before being processed.
-
-The uses of blockchain technology could be seen in certain industries which only accept payment in the form of its own cryptocurrency, which gives incentive to nodes on a network to continue to function as the fee being paid out will remain valuable. Initially, to obtain cryptocurrency was only through mining. Since the expansion of the networks, the operators of these nodes will sell their excess fees obtained through mining on exchanges. These exchanges accept Fiat Currency, which are government issued currency in exchange for Cryptocurrency. Exchanges such as CoinBase, CoinSpot, and Coin Jar allows you to trade in Fiat Currency for Cryptocurrency. 
-
-An appealing aspect to a cryptocurrency is the inability for a certain industry to manipulate their value of their currency, a decentralised currency. When a currency is decentralised and consistently used within a network, every transaction which occurs on the ledger increases the complexity of the Equations, thus making it harder for the nodes to solve these equations and gradually decreasing the fee awarded to the node. The value of the Cryptocurrency then increases. 
-
-Cryptocurrency could be seen in everyday technology, such as our daily transactions. Companies such as visa and mastercard are processing thousands of transactions per second and could use this type of technology to prevent the task of reconciliation. Potential Jobs which are affected are jobs within accounts as there will be less tasks involved around balancing general ledgers. Potential implications of this technology is the independency of needing to open an account with a bank, thus providing full control of the ones asset to the individual. 
-
-Currently Cryptocurrency is highly volatile due to the limited amount of users actively using it as a form of exchange, but when the users are diverse, sudden changes within the market occurs it will not be as effective as it has been in the past. Currently the wealthier individuals are able to manipulate the market as they will invest enormous amounts of fiat money within a certain cryptocurrency causing many to rush in, then potentially exchanging cryptocurrency back out into fiat money and gaining capital. This leaves damaging effects to unsuspected users who have invested a lot of capital. 
-
-As an individual, blockchain would potentially allow me to transfer funds to my family in another country without bank fees and exchange rates instantly. This allows more value to be received to my family and decreasing the processing time in urgent situations. When a transaction is sent, a fee is paid to the network to process this transaction, which further creates an incentive for the operators to continue to maintain their nodes. To receive these funds the requirement is access to the internet. Accounts are opened through wallets which have been encrypted by a string a words creating an encryption on the wallet and an address to send and receive. Unlike Bank accounts, we are not required to enter a branch and provide document proving identity to open a wallet. This is convenient for those who do not have the time or access to branch to open an account or are worried about the safety of their personal data being breached. 
-
-Currently, if cryptocurrency is used as everyday transaction it will not have a great affect as all my transactions are through tap and pay using visa mastercard. The advantages of Cryptocurrency is the freedom to manage to send funds to instantly to any location with internet access but, if I was to move my assets entirely to a wallet through a decentralised currency I am liable for my own negligence. If another individual was to obtain access to my wallet I will not be able to process a claim through a bank to receive my funds back. 
-
-
-
-
-Project idea
-I think the best way to implement this program into society would be to go through the government of the country. If we can make a regulation that every Pharmacist has to be using this program it will be easier then expecting everyone to be using the same program.  Also we wouldn’t have to spend time marketing and wasting resources on unnecessary projects. Getting a government grant would be the most ideal way of getting this program to help the country. Also since it will be a government application it would make it easier for doctors and hospitals to attain this information helping the whole medical world come closer. 
-
-
 
 
 

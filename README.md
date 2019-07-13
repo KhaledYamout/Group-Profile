@@ -33,7 +33,9 @@ Khaled Yamout
 
 Tayla Surmon
 
-My ideal job would be as a Senior Financial Advisor – Family Office Environment. This is a role that I would be able to showcase my excellent track record of Consultative Sale Skills, the ability to hold myself accountable for the results I provide, wow my colleagues with my outstanding communication, presentation and interpersonal skills as well as show that I can work individually as well as in a team environment. Although at this point in time I have very limited knowledge in this industry, I have worked as an Insurance Brokers for 3 years and currently working in a big 4 bank as a personal banker. By participating and completing my Bachelor of Business majoring in Financial Planning as well has having my qualifications from the Insurance industry and the Banking industry I believe that this is just one small leap that I need to take to begin my journey to be a successful Senior Financial Advisor. 
+My ideal job would be as a Senior Financial Advisor – Family Office Environment. This is a role that I would be able to showcase my excellent track record of Consultative Sale Skills, the ability to hold myself accountable for the results I provide, wow my colleagues with my outstanding communication, presentation and interpersonal skills as well as show that I can work individually as well as in a team environment. Although at this point in time I have very limited knowledge in this industry, I have worked as an Insurance Brokers for 3 years and currently working in a big 4 bank as a personal banker. By participating and completing my Bachelor of Business majoring in Financial Planning as well has having my qualifications from the Insurance industry and the Banking industry I believe that this is just one small leap that I need to take to begin my journey to be a successful Senior Financial Advisor.
+
+[Test Outcome](https://github.com/KhaledYamout/Group-Profile/blob/master/Tayla%20Tests.docx)
 
 ## Report
 

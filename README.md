@@ -249,9 +249,6 @@ If this project idea was successful in being created it would have an enormous i
 
 ## References
 
-16 Personalities. 2011-2019. Free Personality Test. NERIS Analytics Limited. Free Personality Test
-EducationPlanner.Org. 2011. What’s Your Learning Style?. Pennsylvania Higher Education Assistance Agency. What's Your Learning Style? 20 Questions
-Mindtools.com. 2019. How Creative Are You?. Mind Tools Essential skills for an Excellent Career. How Creative Are You?
 Benny Monheit, Danusia Pietrzak and Sandra Hocking. 2016. Prescription Drug Abuse – A timely update. A Family Physician. Prescription drug abuse – A timely update
 Autonomous Car. 2019. Autonomous Car - https://en.wikipedia.org/wiki/Autonomous_car
 

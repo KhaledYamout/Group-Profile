@@ -32,16 +32,43 @@ Since a young age I have been in the workforce. Slowly becoming more experienced
 
 ## Team Profile
 
-Khaled Yamout
+### Khaled Yamout
 
 - [Test Outcome](https://github.com/KhaledYamout/Group-Profile/blob/master/Test%20outcomes.docx)
 - [Ideal Job](https://github.com/KhaledYamout/Group-Profile/blob/master/Skill%20and%20Ideal%20Job.docx)
 
-Tayla Surmon
+### Tayla Surmon
 
 My ideal job would be as a Senior Financial Advisor – Family Office Environment. This is a role that I would be able to showcase my excellent track record of Consultative Sale Skills, the ability to hold myself accountable for the results I provide, wow my colleagues with my outstanding communication, presentation and interpersonal skills as well as show that I can work individually as well as in a team environment. Although at this point in time I have very limited knowledge in this industry, I have worked as an Insurance Brokers for 3 years and currently working in a big 4 bank as a personal banker. By participating and completing my Bachelor of Business majoring in Financial Planning as well has having my qualifications from the Insurance industry and the Banking industry I believe that this is just one small leap that I need to take to begin my journey to be a successful Senior Financial Advisor.
 
 [Test Outcome](https://github.com/KhaledYamout/Group-Profile/blob/master/Tayla%20Tests.docx)
+
+### Patrick Mugasa
+
+#### Ideal job
+
+My ideal job is to be a network administrator or a pokie machine programmer. I currently don’t have the required skills to be either but I’m hoping to acquire them in my studies at RMIT. Apart from my studies at RMIT, I’m planning to get IT certifications that will equip me with the necessary skills required for these jobs. Pokie machine programming involves a lot of programming skills and I currently know how to program in some languages which is a start. It also requires a deep understanding of probability theory. I’m not probability expert but I know some basic probability.
+
+#### Test outcomes
+
+##### Myers-Briggs Type Indicator (MBTI) test results
+
+* Type: Assertive architect
+* Code: INTJ-A
+* Role: Analyst
+* Strategy: Confident individualism
+
+##### Learning style test results
+
+* Visual learner
+
+##### Big five personality test results
+
+* Openness: 71%
+* Conscientiousness: 58%
+* Extraversion: 8%
+* Agreeableness: 69%
+* Neuroticism: 46%
 
 ## Report
 

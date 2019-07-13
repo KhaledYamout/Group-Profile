@@ -194,6 +194,41 @@ Unfortunately, with the world we are living in it won’t be long before your ev
 
 In relation to the effect that autonomous vehicles will have on me personally I believe that it is the way of the future and this is just the start to many autonomous things. I don’t 100% agree with autonomous vehicles but facts such as reducing fatalities worldwide, reducing CO2 emissions and assisting with reducing global warming I agree with the production of autonomous vehicles. However, I don’t agree with how this will affect people’s jobs and livelihoods.
 
+## Group Project Idea
+
+### MISUSE OF PRESCRIPTION DRUGS
+
+In Australia the use of prescription drugs is an increasing problem. Pharmaceutical drugs have been the highest recurrent contributor to overdose deaths within Australia. Australians who are affected by the dependence of prescription drugs find themselves going from doctor to doctor and pharmacy to pharmacy every day to assist in feeding their addiction. In saying that, this project idea would need to be applied by pharmacists using a computer program that they all must. This program would provide them the ability to search using the customer’s details and find out where else they have been to collect this drug as well as when they last filled a prescription. This is a system that would need to be executed in every pharmacy in Australia and always be used to update the patient records of how often the drugs are being acquired and used. 
+Not only is this a snowballing issue in Australia, but a worldwide issue which is a growing concern to all governments. A survey which was completed in 2013 found that 4.8% of Australian Adults were using prescription drugs for non-medical purposes. The amount of people in syringe and needle programs who have testified that the most recent drug they used to inject themselves with was a prescription opioid amplified from 7% in 2000 to 23% in 2015. This study also found that the 2 most commonly abused drugs were analgesics and sedatives. The reason these 2 drugs are the most commonly used is because they stimulate the reward section in the brain by increasing the level of dopamine neurotransmitter levels, which creates the feeling of pleasure and relief of dysphoria. 
+By implementing this service to pharmacies, they would all need to have a protected internet connection which would be linked to a certain server which is based in the cloud. This server would be available 24 hours a day 7 days a week. This system would work by all pharmacists (or pharmacist assistants) inputting the details of all of their clients and the drug that was prescribed to them. Yes, this may take a bit of extra time for the pharmacist or pharmacist assistant, however it would assist in decreasing the abuse of prescription drugs. As this would be a live system that would be hosted by a government agency, all the data that is entered into the system would be live as soon as it is entered, thus there would be no down-time. If an abuser is going from doctor to doctor and pharmacy to pharmacy this would be an excellent program to guarantee that abusers aren’t able to feed their addictions by abusing the medical professions, as they would be red flagged in the system. 
+If this program is implemented across the globe, it will help a lot of people who are in desperate situations to get back to better health and to return from being dependent on drugs. As mentioned before the computer program would track customer’s prescription orders to limit their use of prescription drugs. As soon as a person is flagged in the system, a response to the situation would be to send a qualified person from a rehabilitation centre with authority from the government. Helping the citizens get back to health is a major part in keeping a community strong and most of all safe. Rehabilitation centres would have personnel ready for tracking and escorting the addict in need back to the centre where they would get the proper care and help. Those who are flagged by the program would be listed in “red” meaning; in need of help. After the addict has received the care and rehabilitation they require from the centre, they would be released back into society as “green” meaning they have been rehabilitated and are now trying to return to a normal life style. The live system would then keep track of their state to make sure they do not relapse. This information will also help doctors determine who the patients are and what to do with their condition.       
+
+This type of service would necessitate each pharmacy to have a securely connected computer, which the government would make compulsory to operate. Unfortunately, this means that pharmacies would have to invest a bit of money and time into obtaining these specialised computers or they would be unable to remain operating. As this service is a program that would hold sensitive information about customers, it is highly important that the software development for this program is exceedingly secure. 
+There are many skills and talents that would be essential to make this project an effective one. Everything from project managers, software developers and computer installers that have experience installing computers that have a secure internet connection. The team of project 
+managers would need to have a lot of experience and knowledge in every area of network design. The software developers also need to have a lot of experience as they have to work together to create an extremely secure program that is to be run off the cloud. Not only does the program have to be secure to protect the confidential customer information, it also needs to be able to generate red flags when it sees there is a misuse or high use of prescription drugs. 
+If this project idea was successful in being created it would have an enormous impact on the diverse communities in Australia, as it would see an instantaneous decrease in the prescription drug abuser community. This system will help ensure that patients are filling their prescriptions appropriately and at the recommended time by a doctor (for example, if a patient is prescribed an opioid drug, they are only able to refill this prescription every 30 days, therefore a red flag would be applied with a patient attempts to refill the script before then). This system would be one of a kind as it would be assisting with reducing the amount of prescription drug deaths and overdoses within the Australia community. This would then further assist doctors with being able to see those patients who truly need their care and attention and reduce the number of pointless visits from prescription drug abusers.
+
+## References
+
+16 Personalities. 2011-2019. Free Personality Test. NERIS Analytics Limited. Free Personality Test
+EducationPlanner.Org. 2011. What’s Your Learning Style?. Pennsylvania Higher Education Assistance Agency. What's Your Learning Style? 20 Questions
+Mindtools.com. 2019. How Creative Are You?. Mind Tools Essential skills for an Excellent Career. How Creative Are You?
+Benny Monheit, Danusia Pietrzak and Sandra Hocking. 2016. Prescription Drug Abuse – A timely update. A Family Physician. Prescription drug abuse – A timely update
+Autonomous Car. 2019. Autonomous Car - https://en.wikipedia.org/wiki/Autonomous_car
+
+Nadine Cranenburgh. 2019. Is Australia ready for self-driving cars.
+https://www.createdigital.org.au/australia-ready-for-self-driving-cars/ 
+
+Mandla Reissmann. 2019. The Future of Autonomous Vehicles.
+https://www.futuresplatform.com/blog/future-autonomous-vehicles 
+
+Victoria Woollaston. 2018. Driverless cars of the future: How far away are we from autonomous cars?. https://www.alphr.com/cars/1001329/driverless-cars-of-the-future-how-far-away-are-we-from-autonomous-cars 
+
+Alex Davies and Aarian Marshall. 2019. Are we there Yet? A reality check on self-driving cars. https://www.wired.com/story/future-of-transportation-self-driving-cars-reality-check/ 
+
+Ian Dowd. 2019. The future of Autonomous Vehicles. https://www.openaccessgovernment.org/future-of-autonomous-vehicles/57772/ 
+
+Jessica Miley. 2018. Are Self-Driving Cars the Future of Transportation?. https://interestingengineering.com/are-self-driving-cars-the-future-of-transportation-infographic 
 
 
 

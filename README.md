@@ -155,6 +155,44 @@ https://searchsecurity.techtarget.com/definition/penetration-testing
 https://app.pluralsight.com/library/courses/wireless-network-penetration-testing/table-of-contents
 https://app.pluralsight.com/library/courses/penetration-testing-lifecycle-explained/table-of-contents
 
+## AUTONOMOUS VEHICLES
+
+### Tayla Surmon
+
+From cruise control to parking assist, in the last few years we have seen an enormous escalation in technological developments being executed in the automotive industry.
+
+The human population like to watch movies, don’t have much time to catch up on emails and tend to be a little bit sleep deprived. However, with the production of autonomous vehicles right around the corner people will be able to sit in their car watch movies, catch up on their emails and take a little nap. 
+
+An Autonomous Vehicle, is also recognized as a robotic car, self-driving car or a driverless car. This is a vehicle that has the ability to sense its surrounding and move about with little to no human input. Instruments such as radar, lidar, sonar, GPS, inertial measurement units and odometry are all combined within the Autonomous Vehicles which enables them to observe their surroundings and move freely. Advanced control systems translate sensory data to recognize the appropriate navigation paths as well as any obstacles and signage which are essential to be avoided.
+
+Autonomous vehicles are set to be as life-changing if not more life-changing then the invention of the motor vehicle itself. Many cities have been designed principally by the mobility that has been accomplished by motor vehicles. Motor vehicles have provided transportation services to people and supported many major road networks internationally since they were invented. 
+
+Many people believe that the analogy of road networks are similar to blood vessels. Road networks give increase to movement and a measure of independence to people giving them the ability to drive from point A to point b and carry out their many social needs and wants as they deem necessary. With the production of Autonomous vehicles, they will make the road network or the blood vessels run more effectively, efficiently and safely. 
+
+There is a need for autonomous vehicles to be supported as astonishing statics show that today’s motor vehicles are immensely uneconomical and hazardous. 
+Research shows that there are around 1 million deaths on the roads worldwide each year. This equivalates to roughly 1 fatality every 30 seconds. Over 90% of these fatalities are caused by human error. Autonomous vehicles have the potential to reduce the amount of fatalities as it eliminates human imperfections in driving such as drivers not paying attention to the road in front of them, driving at high speeds (above the speed limits), drink driving, perceptual errors, judgement errors and driver exhaustion. 
+
+Autonomous vehicles are capable of reducing up to 90% of wasted commuting, increasing car utilisation, reducing car ownership and also reducing CO2 emissions therefore also helping reduce global warming. 
+
+Within the next few years companies such as Tesla, Toyota, Google, Lexus, BMW, Mercedes-Benz and many more will be arranging to introduce autonomous vehicles with a huge emphasis on the electrification of cars. With autonomous vehicles being produced and ready for sale to the public in the not so distant future we may start to see driver’s licences approach the obsolete status along with hot rod fuel guzzlers. 
+
+Within the next 10-20 years the world can expect to see major changes in the way all roads and transport services are operated. This will also create new avenues for value creation in transport such as service and major upgrades in safety and efficiency.  
+
+Although Autonomous Vehicles are equipped with Instruments such as radar, lidar, sonar, GPS, inertial measurement units and odometry there are proven difficulties when it comes to determining the intentions of pedestrians, cyclists and animals. 
+
+Currently in Europe, Belgium, France, Italy and the United Kingdom are all planning to operate transport systems for autonomous vehicles. Germany, the Netherlands and Spain all currently allow the public to test autonomous vehicles on their roads. In 2015, the United Kingdom launched public trials of the LUTZ Pathfinder automated pod in Milton Keynes. At the beginning of the summer of 2015, the French government allowed PSA Peugeot-Citroen to make trials in real conditions within Paris. The association between the French companies THALES and Valeo (provider of the first self-parking car system) is testing its own system for Autonomous Vehicles. In New Zealand the government in planning to use automated vehicles for public transport in the cities of Tauranga and Christchurch. 
+
+In China, Baidu and King Long produced the automated minibus, a vehicle containing 14 seats without a driver’s seat. With 100 vehicles produced by Baidu and King Long, 2018 was the first year with commercial automated services in China.
+
+The era of autonomous vehicles is here. According to the automotive industry estimates, by 2020, the autonomous vehicle market will be worth around US$87 billion (AUD$124,410,000,000). Additionally, by the year 2040, it is projected that out of every 10 vehicles on the road 4 of them will be autonomous. Autonomous Vehicles will open up new opportunities and create motivation for innovation for organisations from across a wide range of industries not only within Australia but Worldwide as well.  
+
+In the 2019 Autonomous Vehicles Readiness Index (AVRI) Australia dropped from 14th place to 15th place. The AVRI tested 25 countries on their preparedness to transition to driverless transport in multiple areas including policy, technology, infrastructure and customer acceptance. 
+
+In 2017, both the public and private sector senates of the road industry of Australia decided that for Australia to meet the pace of technological progression, the Australian specialists were required to be ready to support the safe deployment of partially robotic vehicles by the year 2020 and highly automated and driverless automobiles by the year 2030. 
+
+Unfortunately, with the world we are living in it won’t be long before your everyday manual and automatic cars are non-existent. Autonomous vehicles are the way of the future and within the next 1-5 years they will be everywhere. No more jobs for taxi drivers, bus drivers, truck drivers. All these people will lose their jobs because autonomous vehicles are being manufactured quicker and more frequently as the years go by. Companies will look to become more futuristic by buying autonomous vehicles to reduce their staffing costs. Unfortunately, this is something that we are unable to stop from happening. Not only will loss of jobs be affected but the technology to run the autonomous vehicles will be highly expensive. The world should also see a reduction in taxes as well as insurance collection. Although, these drawbacks will not be sufficient to halt the study and progression that is already underway. 
+
+In relation to the effect that autonomous vehicles will have on me personally I believe that it is the way of the future and this is just the start to many autonomous things. I don’t 100% agree with autonomous vehicles but facts such as reducing fatalities worldwide, reducing CO2 emissions and assisting with reducing global warming I agree with the production of autonomous vehicles. However, I don’t agree with how this will affect people’s jobs and livelihoods.
 
 
 

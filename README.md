@@ -1,6 +1,6 @@
 # PENTA
 
-## Personal Info (Add Your info)
+## Personal Info
 
 ### Khaled Yamout
 
@@ -22,9 +22,7 @@ https://mugasa.github.io/IntroToIT1937-Assignment1/
 Student ID: S3801846 Email: s3801846@student.rmit.edu.au 
 My name is Tayla Jean Surmon I am 24 years old. I was born and bred in Cairns, Far North Queensland. I completed my year 12 certificate at St Marys Catholic College in 2012. During my years at high school I had the burning desire to move into higher education and complete a degree in occupational once I completed my year 12 certificate, however I put that on hold took a gap year and unfortunately didn’t follow that desire, instead found happiness in working as a gymnastics coach (which I had already been doing since 2007) . My Mum was born in Sydney, however had the opportunity to travel far and wide as her dad was a plane engineer. My Dad is from Papua New Guinea and moved to Sydney Australia at the age of 6. I have 3 Older brothers all of which were born in Sydney. My first and only spoken language is English, however I would like to learn Japanese in the future. Between 2016 and the beginning of 2019 I worked as an insurance broker and gained my Tier 2 in General Insurance Broking. Currently I am working in a bank and in the process of completing my Tier 2 in Banking. I have a dog named Bruce and a cat named Mitsy who I absolutely adore. Up until 2013 I was a Gymnast/Trampolinist and extremely enjoyed it. My early retirement from Gymnastics/Trampolining came in 2013 when I decided that my knees and body was no longer able to take the harsh impact of the sport. 7 years later I decided it was time to jump back into full-time study and am now in the process of completing my Diploma of Business (Financial Planning).
 
-## Team Profile (Add your Test outcomes and Ideal Job)
-
-Test outcomes of esch person **(Compare and Contnrast Ideal Jobs)**
+## Team Profile
 
 Khaled Yamout
 

@@ -29,16 +29,6 @@ Student ID: S3799294
 
 Since a young age I have been in the workforce. Slowly becoming more experienced with my work I noticed that I would need to educate myself beyond a high school level. Many of my problems arise from trying to learn how to maintain the business, keeping up with the finances and making critical decisions. At this stage of my life I found that the best thing for me would be to do a Bachelors course in Financial Planning. This would be helping me directly in my work. I decided to go through my options as I have to go in to work from Monday to Friday even the weekends sometime. Working nine to five can be a lot of work and trying to go into class would be near impossible. So I decided to take up Open University. This would help me work and I would still be able to do my course. After finishing my course I feel as if I would have a lot more skill set to bring into my future problems. I will be able to help myself personally and career wise
 
-### Ideal Job
-
-This Job will mainly deal with compliance in building and also dealing with the businesses financial projects. This is a Chief Financial Officer position (CFO).  Already having a background in a management position in my life from a young age this has helped mould my personal attributes. Using this and finishing my course this will be an ideal position for me. Also knowing that all other board members are living in the state and available makes having meeting about important matters much easier. Also growing up I have also worked in construction and done it in year 12 for my final year of school. A lot of my close friends are doing construction and I gave kept up with problems in the industry. 
-I would need minimum a bachelor in finance also past experiences of 10 years. Also I would need to learn about construction law I feel best thing would be to have a builders license or bachelors in Construction management. I have already done 1 year of construction management in my first year of university. This allows me to understand the course and know what I will need to do.I should also be friendly with accounting problems since there will be a lot of accounting issues on the job. Only way to be able to make curial decisions for the business would be through knowledge of the problems. I feel with my current attributes and finishing my studies in the future I can become an ideal candidate.
- Having done management and making decisions for my father’s business I feel like with the right knowledge I can really help this business grow. I already have 1 year in construction management bachelor and also am currently finishing my financial planning bachelor. I feel like I can really fill this position out well.
-
-https://www.seek.com.au/job/39255436?searchrequesttoken=aec4e6cf-8955-485c-adba-58ce929fc6bd&type=standout
-
-
-
 ## Team Profile
 
 ### Khaled Yamout
@@ -78,6 +68,16 @@ My ideal job is to be a network administrator or a pokie machine programmer. I c
 * Extraversion: 8%
 * Agreeableness: 69%
 * Neuroticism: 46%
+
+### Saad Alvi
+
+### Ideal Job
+
+This Job will mainly deal with compliance in building and also dealing with the businesses financial projects. This is a Chief Financial Officer position (CFO).  Already having a background in a management position in my life from a young age this has helped mould my personal attributes. Using this and finishing my course this will be an ideal position for me. Also knowing that all other board members are living in the state and available makes having meeting about important matters much easier. Also growing up I have also worked in construction and done it in year 12 for my final year of school. A lot of my close friends are doing construction and I gave kept up with problems in the industry. 
+I would need minimum a bachelor in finance also past experiences of 10 years. Also I would need to learn about construction law I feel best thing would be to have a builders license or bachelors in Construction management. I have already done 1 year of construction management in my first year of university. This allows me to understand the course and know what I will need to do.I should also be friendly with accounting problems since there will be a lot of accounting issues on the job. Only way to be able to make curial decisions for the business would be through knowledge of the problems. I feel with my current attributes and finishing my studies in the future I can become an ideal candidate.
+ Having done management and making decisions for my father’s business I feel like with the right knowledge I can really help this business grow. I already have 1 year in construction management bachelor and also am currently finishing my financial planning bachelor. I feel like I can really fill this position out well.
+
+https://www.seek.com.au/job/39255436?searchrequesttoken=aec4e6cf-8955-485c-adba-58ce929fc6bd&type=standout
 
 ## Report
 

@@ -238,6 +238,22 @@ Unfortunately, with the world we are living in it won’t be long before your ev
 
 In relation to the effect that autonomous vehicles will have on me personally I believe that it is the way of the future and this is just the start to many autonomous things. I don’t 100% agree with autonomous vehicles but facts such as reducing fatalities worldwide, reducing CO2 emissions and assisting with reducing global warming I agree with the production of autonomous vehicles. However, I don’t agree with how this will affect people’s jobs and livelihoods.
 
+## References
+
+Nadine Cranenburgh. 2019. Is Australia ready for self-driving cars.
+https://www.createdigital.org.au/australia-ready-for-self-driving-cars/ 
+
+Mandla Reissmann. 2019. The Future of Autonomous Vehicles.
+https://www.futuresplatform.com/blog/future-autonomous-vehicles 
+
+Victoria Woollaston. 2018. Driverless cars of the future: How far away are we from autonomous cars?. https://www.alphr.com/cars/1001329/driverless-cars-of-the-future-how-far-away-are-we-from-autonomous-cars 
+
+Alex Davies and Aarian Marshall. 2019. Are we there Yet? A reality check on self-driving cars. https://www.wired.com/story/future-of-transportation-self-driving-cars-reality-check/ 
+
+Ian Dowd. 2019. The future of Autonomous Vehicles. https://www.openaccessgovernment.org/future-of-autonomous-vehicles/57772/ 
+
+Jessica Miley. 2018. Are Self-Driving Cars the Future of Transportation?. https://interestingengineering.com/are-self-driving-cars-the-future-of-transportation-infographic
+
 ## Cryto Currency
 
 ### Saad Alvi
@@ -263,6 +279,8 @@ Currently Cryptocurrency is highly volatile due to the limited amount of users a
 As an individual, blockchain would potentially allow me to transfer funds to my family in another country without bank fees and exchange rates instantly. This allows more value to be received to my family and decreasing the processing time in urgent situations. When a transaction is sent, a fee is paid to the network to process this transaction, which further creates an incentive for the operators to continue to maintain their nodes. To receive these funds the requirement is access to the internet. Accounts are opened through wallets which have been encrypted by a string a words creating an encryption on the wallet and an address to send and receive. Unlike Bank accounts, we are not required to enter a branch and provide document proving identity to open a wallet. This is convenient for those who do not have the time or access to branch to open an account or are worried about the safety of their personal data being breached. 
 
 Currently, if cryptocurrency is used as everyday transaction it will not have a great affect as all my transactions are through tap and pay using visa mastercard. The advantages of Cryptocurrency is the freedom to manage to send funds to instantly to any location with internet access but, if I was to move my assets entirely to a wallet through a decentralised currency I am liable for my own negligence. If another individual was to obtain access to my wallet I will not be able to process a claim through a bank to receive my funds back.
+
+## References
 
 References for Block chain and Crypto currency 
 Lisk.2019.Lisk.io.[ONLINE] Available at: https://lisk.io/academy/blockchain-business/cryptocurrencies. [Accessed 12 July 2019]
@@ -292,20 +310,4 @@ If this project idea was successful in being created it would have an enormous i
 
 Benny Monheit, Danusia Pietrzak and Sandra Hocking. 2016. Prescription Drug Abuse – A timely update. A Family Physician. Prescription drug abuse – A timely update
 Autonomous Car. 2019. Autonomous Car - https://en.wikipedia.org/wiki/Autonomous_car
-
-Nadine Cranenburgh. 2019. Is Australia ready for self-driving cars.
-https://www.createdigital.org.au/australia-ready-for-self-driving-cars/ 
-
-Mandla Reissmann. 2019. The Future of Autonomous Vehicles.
-https://www.futuresplatform.com/blog/future-autonomous-vehicles 
-
-Victoria Woollaston. 2018. Driverless cars of the future: How far away are we from autonomous cars?. https://www.alphr.com/cars/1001329/driverless-cars-of-the-future-how-far-away-are-we-from-autonomous-cars 
-
-Alex Davies and Aarian Marshall. 2019. Are we there Yet? A reality check on self-driving cars. https://www.wired.com/story/future-of-transportation-self-driving-cars-reality-check/ 
-
-Ian Dowd. 2019. The future of Autonomous Vehicles. https://www.openaccessgovernment.org/future-of-autonomous-vehicles/57772/ 
-
-Jessica Miley. 2018. Are Self-Driving Cars the Future of Transportation?. https://interestingengineering.com/are-self-driving-cars-the-future-of-transportation-infographic
-
-
 

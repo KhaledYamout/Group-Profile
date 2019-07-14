@@ -338,6 +338,16 @@ As the second assignment was underway, I was very nervous working with people on
 
 Due to my work commitments I did tend to find it a little bit difficult to get into the groove of working with my group members as we all had different schedules. 
 Once we decided to communicate through Facebook messenger, I was able to get back to everyone in a reasonable timeframe and advise what I was happy to have assigned to myself and work on. When I had assigned myself the responsibility of completing the group project idea, the write up about autonomous vehicles, my personal introduction, ideal job and test outcomes I was able to work at my own speed and still communicate and participate with my fellow group members. 
-I have always enjoyed working in groups however when I was fronted with this situation, I wasn’t sure how it was going to work with not seeing people face to face. But all in all, I enjoyed being able to bounce ideas off the other group members and have their input as well. 
+I have always enjoyed working in groups however when I was fronted with this situation, I wasn’t sure how it was going to work with not seeing people face to face. But all in all, I enjoyed being able to bounce ideas off the other group members and have their input as well.
+
+
+## Group Reflection
+
+What went well? 
+As a group we were able to learn the strengths and weaknesses of each other which came in handy when we were splitting the tasks up between each person. When it came time to put everyone’s individual work together it worked well that Khaled and Patrick were able to assist Tayla and Saad with programming their work into the website. As a group we feel that out communication was above all. We were able to communicate and still engage with our individual commitments (work, family, social etc.) 
+We also feel that we had each other’s back in times of need and were able to actively assist one another when we didn’t have a full understanding of something and needing further explanation or when we just had general questions. 
+All in all, as a team once we got to know each other a little better we worked really well and were able to bring everything together to successfully complete our first group assignment together. 
+
+
 
 

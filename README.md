@@ -341,7 +341,7 @@ Once we decided to communicate through Facebook messenger, I was able to get bac
 I have always enjoyed working in groups however when I was fronted with this situation, I wasn’t sure how it was going to work with not seeing people face to face. But all in all, I enjoyed being able to bounce ideas off the other group members and have their input as well.
 
 
-## Group Reflection
+### Group Reflection
 
 What went well? 
 As a group we were able to learn the strengths and weaknesses of each other which came in handy when we were splitting the tasks up between each person. When it came time to put everyone’s individual work together it worked well that Khaled and Patrick were able to assist Tayla and Saad with programming their work into the website. As a group we feel that out communication was above all. We were able to communicate and still engage with our individual commitments (work, family, social etc.) 

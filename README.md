@@ -263,7 +263,7 @@ Ian Dowd. 2019. The future of Autonomous Vehicles. https://www.openaccessgovernm
 
 Jessica Miley. 2018. Are Self-Driving Cars the Future of Transportation?. https://interestingengineering.com/are-self-driving-cars-the-future-of-transportation-infographic
 
-## Cryto Currency
+## Crypto Currency
 
 ### Saad Alvi
 

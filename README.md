@@ -343,10 +343,16 @@ I have always enjoyed working in groups however when I was fronted with this sit
 
 ### Group Reflection
 
-What went well? 
+What went well
+
 As a group we were able to learn the strengths and weaknesses of each other which came in handy when we were splitting the tasks up between each person. When it came time to put everyone’s individual work together it worked well that Khaled and Patrick were able to assist Tayla and Saad with programming their work into the website. As a group we feel that out communication was above all. We were able to communicate and still engage with our individual commitments (work, family, social etc.) 
 We also feel that we had each other’s back in times of need and were able to actively assist one another when we didn’t have a full understanding of something and needing further explanation or when we just had general questions. 
-All in all, as a team once we got to know each other a little better we worked really well and were able to bring everything together to successfully complete our first group assignment together. 
+All in all, as a team once we got to know each other a little better we worked really well and were able to bring everything together to successfully complete our first group assignment together.
+
+What Could Improve
+
+As the group progressed I believe better well prepared communications could have improved all our work. The reason for this is because it took us time to decide on what way to communicate was best for everyone. We could have done better if we all knew a bit more about using GitHub as we were all new to using this cloud service. Since we all had work as well, we were not able to focus all our efforts into the project, I believe that if we all had the time we could have done a very good job. While we all got to know one another briefly worked together to collect all our information though, some later than others which also affected our time frame for submission as we had to fix and adjust out project before submission.   
+
 
 
 

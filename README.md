@@ -324,6 +324,8 @@ Autonomous Car. 2019. Autonomous Car - https://en.wikipedia.org/wiki/Autonomous_
 
 ## Group Assessment
 
+### Self Reflection
+
 ### Patrick Mugasa
 
 As a group I think we have done well however, there is one member of our group that didn’t participate much due to communication issues. We’ve tried to contact her but she didn’t respond so, we decided to proceed with the assignment without her. We started the assignment with some communication issues, some of us didn’t use the same communication platforms e.g. I didn’t have a Facebook account before starting the assignment and was forced to open an account because we decided to use Facebook for the assessment. Working with the group was quite a challenge at first but eventually, we were able to finish the assignment in due time. One of the challenges we faced was time availability since most of us are working. We still have time restrictions, but we are able to communicate and respect each other’s time restrictions. We were also able to establish our strengths and weaknesses and use them to our advantage. Our skill set is so diverse, but we were able to utilize every skill we have for the assignment.                                   Some of the tools that were helpful during the process were the communication platform Facebook which helped us to establish communication and github which helped us to share our work.

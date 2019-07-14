@@ -343,17 +343,17 @@ I have always enjoyed working in groups however when I was fronted with this sit
 
 ### Group Reflection
 
-What went well
+#### What went well
 
 As a group we were able to learn the strengths and weaknesses of each other which came in handy when we were splitting the tasks up between each person. When it came time to put everyone’s individual work together it worked well that Khaled and Patrick were able to assist Tayla and Saad with programming their work into the website. As a group we feel that out communication was above all. We were able to communicate and still engage with our individual commitments (work, family, social etc.) 
 We also feel that we had each other’s back in times of need and were able to actively assist one another when we didn’t have a full understanding of something and needing further explanation or when we just had general questions. 
 All in all, as a team once we got to know each other a little better we worked really well and were able to bring everything together to successfully complete our first group assignment together.
 
-What Could Improve
+#### What Could Improve
 
 As the group progressed I believe better well prepared communications could have improved all our work. The reason for this is because it took us time to decide on what way to communicate was best for everyone. We could have done better if we all knew a bit more about using GitHub as we were all new to using this cloud service. Since we all had work as well, we were not able to focus all our efforts into the project, I believe that if we all had the time we could have done a very good job. While we all got to know one another briefly worked together to collect all our information though, some later than others which also affected our time frame for submission as we had to fix and adjust out project before submission.   
 
+#### One thing that I’ve learned about groups
 
-
-
+One thing that I’ve learned about groups is that communication is the key to success. During the assignment, we were faced with a problem of how we should communicate. I suggested that we use WhatsApp but not everyone was comfortable with the idea of sharing their phone numbers online. Someone else suggested that we use discord but most of us were not familiar with the platform. We eventually came to an agreement that we should use Facebook as most of the group members had an account with Facebook however, I didn’t have an account and was forced to open one. This has worked well for most us as we are able to freely communicate and share our ideas on the platform but there is one group member who doesn’t communicate, we don’t if its because she doesn’t know how to use Facebook or if she doesn’t want to contribute.
 

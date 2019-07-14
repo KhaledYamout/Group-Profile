@@ -229,6 +229,7 @@ Unfortunately, with the world we are living in it won’t be long before your ev
 
 In relation to the effect that autonomous vehicles will have on me personally I believe that it is the way of the future and this is just the start to many autonomous things. I don’t 100% agree with autonomous vehicles but facts such as reducing fatalities worldwide, reducing CO2 emissions and assisting with reducing global warming I agree with the production of autonomous vehicles. However, I don’t agree with how this will affect people’s jobs and livelihoods.
 
+## Cryto Currency
 
 ### Saad Alvi
 
@@ -252,12 +253,16 @@ Currently Cryptocurrency is highly volatile due to the limited amount of users a
 
 As an individual, blockchain would potentially allow me to transfer funds to my family in another country without bank fees and exchange rates instantly. This allows more value to be received to my family and decreasing the processing time in urgent situations. When a transaction is sent, a fee is paid to the network to process this transaction, which further creates an incentive for the operators to continue to maintain their nodes. To receive these funds the requirement is access to the internet. Accounts are opened through wallets which have been encrypted by a string a words creating an encryption on the wallet and an address to send and receive. Unlike Bank accounts, we are not required to enter a branch and provide document proving identity to open a wallet. This is convenient for those who do not have the time or access to branch to open an account or are worried about the safety of their personal data being breached. 
 
-Currently, if cryptocurrency is used as everyday transaction it will not have a great affect as all my transactions are through tap and pay using visa mastercard. The advantages of Cryptocurrency is the freedom to manage to send funds to instantly to any location with internet access but, if I was to move my assets entirely to a wallet through a decentralised currency I am liable for my own negligence. If another individual was to obtain access to my wallet I will not be able to process a claim through a bank to receive my funds back. 
+Currently, if cryptocurrency is used as everyday transaction it will not have a great affect as all my transactions are through tap and pay using visa mastercard. The advantages of Cryptocurrency is the freedom to manage to send funds to instantly to any location with internet access but, if I was to move my assets entirely to a wallet through a decentralised currency I am liable for my own negligence. If another individual was to obtain access to my wallet I will not be able to process a claim through a bank to receive my funds back.
+
+References for Block chain and Crypto currency 
+Lisk.2019.Lisk.io.[ONLINE] Available at: https://lisk.io/academy/blockchain-business/cryptocurrencies. [Accessed 12 July 2019]
+
+Europarl.Europa.2018.Cyrptocurrencies and block chain. [ONLINE] Available at: http://www.europarl.europa.eu/cmsdata/150761/TAX3%20Study%20on%20cryptocurrencies%20and%20blockchain.pdf. [Accessed 12 jult 2019].
 
 
 Project idea
 I think the best way to implement this program into society would be to go through the government of the country. If we can make a regulation that every Pharmacist has to be using this program it will be easier then expecting everyone to be using the same program.  Also we wouldn’t have to spend time marketing and wasting resources on unnecessary projects. Getting a government grant would be the most ideal way of getting this program to help the country. Also since it will be a government application it would make it easier for doctors and hospitals to attain this information helping the whole medical world come closer. 
-
 
 
 ## Group Project Idea

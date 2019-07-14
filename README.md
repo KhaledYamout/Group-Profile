@@ -321,3 +321,7 @@ We think the best way to implement this program into society would be to go thro
 Benny Monheit, Danusia Pietrzak and Sandra Hocking. 2016. Prescription Drug Abuse – A timely update. A Family Physician. Prescription drug abuse – A timely update
 Autonomous Car. 2019. Autonomous Car - https://en.wikipedia.org/wiki/Autonomous_car
 
+
+## Group Assessment
+
+
